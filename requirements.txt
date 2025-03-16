@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+
+
+pip install -r requirements.txt
+
+OR
+
+pip install opencv-python mediapipe numpy
